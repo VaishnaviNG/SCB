@@ -1,0 +1,38 @@
+form {
+   
+    border-bottom: thick solid grey;  
+    border-right: thick solid grey; 
+    border-left: thick solid grey;  
+    align-items: center;
+  }
+.header {  
+    margin-top: 50px;
+    border: thick solid grey;
+    padding:20px 10px;  
+}
+.header button {
+float:right;
+margin-top: -11px;
+height:25px;
+width:60px;
+
+}
+
+ label{
+    display: inline-block;
+    padding:9px;   
+    clear: left;
+    width:140px;
+    text-align: left;
+}
+input,textarea {
+  display: inline-block;
+  width:250px;
+}
+.submit {
+  float: right;
+  width: 100px;
+  height:25px;
+  /* margin-right: -10px; */
+  margin-top: 20px
+}
